@@ -11,7 +11,7 @@ Open-Source Websites for Algorithms in C++ :
 
 Youtube Channels for Algorithms in C++ :
 1. [Abdul Bari](https://www.youtube.com/@abdul_bari) (Highly recommended for clear explanations of algorithms and data structures)
-2. [Jenny's lectures](https://www.youtube.com/c/JennysLecturesCSITNETJRF) (Recommended for in-depth explanations and examples of algorithms)
+2. [Jenny's Lectures](https://www.youtube.com/c/JennysLecturesCSITNETJRF) (Recommended for in-depth explanations and examples of algorithms)
 
 For Visualization of Algorithms in C++ :
 1. https://visualgo.net/en
