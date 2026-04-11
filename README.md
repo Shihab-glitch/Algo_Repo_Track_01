@@ -1,5 +1,17 @@
 # Algo_Repo_Track_01
-Keeping track of Algo Course.
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GNU-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)
+
+**Keeping track of Algo Course. Yay 🎉🎉🎉**
+
+</div>
+
+---
 
 Topics :
 1. Sorting (09-06-2024) Conducted by : KJR
