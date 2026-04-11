@@ -11,16 +11,18 @@ using namespace std;
 
 int main()
 {
-    int n, a[n+1], pos = 1; cin >> n;
+    int n, pos = 1; cin >> n;
+    int a[n+1];
 
     for (int i = 1; i <= n; ++i) cin >> a[i];
 
     for (int rep = 1; rep <= (n-1); ++rep)
     {
         int mn = a[rep];
+        pos = rep;
         for (int i = rep; i <= n; ++i)
         {
-            if (mn >= a[i])
+            if (mn > a[i])
             {
                 mn = a[i];
                 pos = i;
